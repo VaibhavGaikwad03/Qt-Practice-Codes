@@ -5,7 +5,7 @@
 #include <QHBoxLayout>
 #include <QPushButton>
 #include <QVBoxLayout>
-
+ 
 GoToCellDialog::GoToCellDialog(QDialog *parent) : QDialog(parent)
 {
     label = new QLabel;
