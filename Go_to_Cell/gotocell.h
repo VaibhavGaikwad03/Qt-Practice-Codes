@@ -1,6 +1,6 @@
 #ifndef GOTOCELL_H
 #define GOTOCELL_H
-
+ 
 #include <QDialog>
 
 class QLabel;
