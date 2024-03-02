@@ -4,7 +4,7 @@
 #include <QPushButton>
 #include <QCheckBox>
 #include <QBoxLayout>
-
+ 
 FindDialog::FindDialog(QWidget *parent) : QDialog(parent)
 {
     label = new QLabel(tr("Find &what:"));
